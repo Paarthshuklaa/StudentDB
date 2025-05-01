@@ -120,7 +120,7 @@ The project is in its initial release stage. Future enhancements may include:
 - Base URL: http://api.login2explore.com:5577
 - Database Name: SCHOOL-DB
 - Relation Name: STUDENT-TABLE
-- Connection Token: (Your connection token goes here)
+- Connection Token: 90934714|-31949208393332123|90956283
 
 ---
 
